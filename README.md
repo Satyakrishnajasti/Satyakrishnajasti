@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+
+<!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning NX
