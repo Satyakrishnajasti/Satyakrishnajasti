@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+![mateusz-klein-a1BlhTu0lMI-unsplash](https://user-images.githubusercontent.com/34743233/150635550-15871d74-2f31-4fbd-9aae-83cf42a8bc99.jpg)
 
 <!-- Here are some ideas to get you started: -->
 
