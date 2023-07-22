@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
  - 🔭 I’m currently working on ARIQT International
  - 🌱 I’m currently learning about RXJS Operators
