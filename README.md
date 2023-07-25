@@ -1,6 +1,6 @@
 ### Hi👋, I'm Satyakrishna Jasti
 
- - 🔭 I’m currently working on ARIQT International
+ - 🔭 I’m currently working at ARIQT International
 
  
 ![WelcomeGIF](https://github.com/Satyakrishnajasti/Satyakrishnajasti/assets/34743233/ce225f91-d0ef-47b4-9084-db95547ee60b)
