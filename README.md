@@ -2,6 +2,8 @@
 
  - 🔭 I’m currently working at ARIQT International
 
+![a3573c74725a2b3df26ff600095a258c](https://github.com/Satyakrishnajasti/Satyakrishnajasti/assets/34743233/113fe60c-7666-4482-bf4b-570dadbedfce)
+
 <!-- Here are some ideas to get you started: -->
 
 
