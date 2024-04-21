@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Angular pipes**
 
-- 💬 Ask me about **Angular, Rxjs and NgRx**
+- 💬 Ask me about **Angular, Rxjs , NgRx and Node.js**
 
 - 📫 How to reach me **satyajasti1995@gmail.com**
 
