@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and NGRX**
 
-- 🤝 I’m looking for help with **Angular pipes**
+- 🤝 I’m looking for help with **Angular and NGRX**
 
 - 💬 Ask me about **Angular, Rxjs , NgRx and Node.js**
 
