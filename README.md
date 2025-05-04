@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **angular projects**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Angular and NGRX**
 
-- 💬 Ask me about **Angular, Rxjs , NgRx and Node.js**
+- 💬 Ask me about **Angular, Rxjs and NgRx**
 
 - 📫 How to reach me **satyajasti1995@gmail.com**
 
