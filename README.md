@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **angular projects**
 
-- 🌱 I’m currently learning **Angular and NGRX**
+- 🌱 I’m currently learning **REACT**
 
 - 🤝 I’m looking for help with **Angular and NGRX**
 
